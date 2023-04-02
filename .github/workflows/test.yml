@@ -3,8 +3,7 @@ name: Super-Linter
 on: push
 
 jobs
-
-  Super-Lint:
+  Super-lint:
     name: Lint code base
     runs-on: ubuntu-latest
     steps:
