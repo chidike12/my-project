@@ -1,7 +1,5 @@
 name: Super-Linter
-
 on: push
-
 jobs
   Super-lint:
     name: Lint code base
